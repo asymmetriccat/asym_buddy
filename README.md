@@ -1,2 +1,4 @@
 # asym_buddy
-web skeleton ready
+web skeleton ready 
+
+still learning
